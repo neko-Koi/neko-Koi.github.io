@@ -59,17 +59,17 @@
 
   const ldconfig = {
     light: {
-	  smallSrc: 'https://s2.loli.net/2024/11/15/GYDrhW6OsyQzS1q.jpg', //浅色模式 小图链接 尽可能配置小于100k的图片 
-	  largeSrc: 'https://s2.loli.net/2024/11/15/sijcHwZzh1vWC3K.jpg', //浅色模式 大图链接 最终显示的图片
-	  mobileSmallSrc: 'https://s2.loli.net/2024/11/15/GYDrhW6OsyQzS1q.jpg', //手机端浅色小图链接 尽可能配置小于100k的图片
-	  mobileLargeSrc: 'https://s2.loli.net/2024/11/15/sijcHwZzh1vWC3K.jpg', //手机端浅色大图链接 最终显示的图片
+	  smallSrc: 'https://bu.dusays.com/2024/11/16/6737f4810fbb9.jpg', //浅色模式 小图链接 尽可能配置小于100k的图片 
+	  largeSrc: 'https://bu.dusays.com/2024/11/16/6737f54227577.jpg', //浅色模式 大图链接 最终显示的图片
+	  mobileSmallSrc: 'https://bu.dusays.com/2024/11/16/6737f4810fbb9.jpg', //手机端浅色小图链接 尽可能配置小于100k的图片
+	  mobileLargeSrc: 'https://bu.dusays.com/2024/11/16/6737f54227577.jpg', //手机端浅色大图链接 最终显示的图片
 	  enableRoutes: ['/'],
 	  },
 	dark: {
-	  smallSrc: 'https://s2.loli.net/2024/11/15/rQPsfozBgGb2Y9t.jpg', //深色模式 小图链接 尽可能配置小于100k的图片 
-	  largeSrc: 'https://s2.loli.net/2024/11/15/u84WTCScl2dHp5X.jpg', //深色模式 大图链接 最终显示的图片
-	  mobileSmallSrc: 'https://s2.loli.net/2024/11/15/rQPsfozBgGb2Y9t.jpg', //手机端深色模式小图链接 尽可能配置小于100k的图片
-	  mobileLargeSrc: 'https://s2.loli.net/2024/11/15/u84WTCScl2dHp5X.jpg', //手机端深色大图链接 最终显示的图片
+	  smallSrc: 'https://bu.dusays.com/2024/11/16/6737f48128475.jpg', //深色模式 小图链接 尽可能配置小于100k的图片 
+	  largeSrc: 'https://bu.dusays.com/2024/11/16/6737f545a9634.jpg', //深色模式 大图链接 最终显示的图片
+	  mobileSmallSrc: 'https://bu.dusays.com/2024/11/16/6737f48128475.jpg', //手机端深色模式小图链接 尽可能配置小于100k的图片
+	  mobileLargeSrc: 'https://bu.dusays.com/2024/11/16/6737f545a9634.jpg', //手机端深色大图链接 最终显示的图片
 	  enableRoutes: ['/'],
 	  },
 	};
